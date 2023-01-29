@@ -5,4 +5,4 @@
 
  Tutorial video and material source: https://www.youtube.com/watch?v=XtQMytORBmM&t=2157s<br>
 
- ![Game Pic] https://github.com/Pengyu-gis/Game-FlyBird/blob/main/BirdGame.png
+ ![Game Pic](https://github.com/Pengyu-gis/Game-FlyBird/blob/main/BirdGame.png)
